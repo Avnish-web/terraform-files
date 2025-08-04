@@ -10,5 +10,5 @@ EOF
 
 
 # make sure in your security group http port 80 is open 
-// hit that url in browser 
+# hit that url in browser 
 # http://<your instances >
